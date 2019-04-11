@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-firebase-issue",
+  "version": "1.0.0",
+  "description": "My pioneering Nuxt.js project",
+  "author": "Thomas Kientz",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "firebase": "^5.9.3",
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
